@@ -1,0 +1,22 @@
+{
+    "section1": {
+        "unit1": {
+            "Topic1":["chapter","chapter1","chatpter3"],
+            "Topic2":["chapter","chapter1"],
+            "Topic3":["chapter"],
+            "time": "est duration to complate"
+        },
+        "section2":{
+           "unit1": {
+            "Topic1":["chapter","chapter1","chatpter3"],
+            "time": "est duration to complate"
+
+        },
+            "unit2": {
+            "Topic1":["chapter","chapter1","chatpter3"],
+            "time": "est duration to complate"
+            }
+        }
+    }
+
+}

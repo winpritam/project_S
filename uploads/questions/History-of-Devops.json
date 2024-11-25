@@ -1,0 +1,65 @@
+```json
+[
+  {
+    "Q": "When did the term 'DevOps' first appear?",
+    "O": {
+      "a": "Early 2000s",
+      "b": "Late 2000s",
+      "c": "Early 2010s",
+      "d": "Mid 2010s"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "Which key event significantly influenced the development of DevOps?",
+    "O": {
+      "a": "The rise of agile methodologies",
+      "b": "The increasing complexity of software systems",
+      "c": "The need for faster delivery cycles",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is a core principle of DevOps?",
+    "O": {
+      "a": "Collaboration between development and operations teams",
+      "b": "Automation of infrastructure and processes",
+      "c": "Continuous integration and delivery",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "How did the early days of DevOps differ from traditional approaches to software development and deployment?",
+    "O": {
+      "a": "Stronger focus on collaboration and communication.",
+      "b": "Greater use of automation and tools.",
+      "c": "Shifting left in responsibilities.",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "Which technological advancements played a significant role in enabling DevOps practices?",
+    "O": {
+      "a": "Cloud computing",
+      "b": "Infrastructure as code",
+      "c": "Containerization technologies",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+    {
+    "Q": "What is a key benefit of DevOps practices?",
+    "O": {
+      "a": "Faster delivery cycles",
+      "b": "Improved quality of software",
+      "c": "Increased collaboration and communication",
+      "d": "All of the above"
+    },
+    "A": "d"
+  }
+
+]
+```

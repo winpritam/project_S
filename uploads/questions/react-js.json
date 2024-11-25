@@ -1,0 +1,304 @@
+[
+  {
+    "Q": "What is ReactJS primarily used for?",
+    "O": {
+      "a": "Back-end development",
+      "b": "Database management",
+      "c": "Building user interfaces (UI)",
+      "d": "Mobile application development"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "What is a component in React?",
+    "O": {
+      "a": "A self-contained piece of UI",
+      "b": "A type of JavaScript loop",
+      "c": "A back-end function",
+      "d": "A database table"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is JSX?",
+    "O": {
+      "a": "A JavaScript library for styling",
+      "b": "A syntax extension to JavaScript that allows HTML-like syntax within JavaScript code",
+      "c": "A type of JavaScript function",
+      "d": "A back-end framework"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How does React manage data changes?",
+    "O": {
+      "a": "Using a two-way data binding system",
+      "b": "Using a unidirectional data flow",
+      "c": "By directly manipulating the DOM",
+      "d": "It does not manage data changes explicitly"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is the purpose of the 'useState' hook in React?",
+    "O": {
+      "a": "To manage component state",
+      "b": "To handle user events",
+      "c": "To perform HTTP requests",
+      "d": "To route between different pages"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is the purpose of the 'useEffect' hook in React?",
+    "O": {
+      "a": "To perform side effects in a component",
+      "b": "To manage component state",
+      "c": "To render the UI",
+      "d": "To handle user input"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is 'props' in React?",
+    "O": {
+      "a": "Data passed from a parent component to a child component",
+      "b": "The component's internal state",
+      "c": "An HTTP request object",
+      "d": "A styling object"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is the virtual DOM?",
+    "O": {
+      "a": "An in-memory representation of the real DOM",
+      "b": "A database table",
+      "c": "A styling library",
+      "d": "A type of JavaScript function"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is 'reconciliation' in React?",
+    "O": {
+      "a": "The process of updating the real DOM efficiently",
+      "b": "A type of JavaScript function",
+      "c": "The process of creating the virtual DOM",
+      "d": "A back-end function"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "Which of these is NOT a lifecycle method in Class Components?",
+    "O": {
+      "a": "componentDidMount",
+      "b": "componentWillUnmount",
+      "c": "useEffect",
+      "d": "componentDidUpdate"
+    },
+    "A": "c"
+  }
+][
+  {
+    "Q": "What is ReactJS primarily used for?",
+    "O": {
+      "a": "Backend development",
+      "b": "Building user interfaces (UI)",
+      "c": "Database management",
+      "d": "Mobile app development (native)"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a component in React?",
+    "O": {
+      "a": "A self-contained piece of UI",
+      "b": "A type of loop",
+      "c": "A backend function",
+      "d": "A CSS styling method"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you define a functional component in React?",
+    "O": {
+      "a": "Using the 'class' keyword",
+      "b": "Using a function declaration or arrow function",
+      "c": "Using the 'component' keyword",
+      "d": "Using a 'struct' declaration"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is JSX?",
+    "O": {
+      "a": "A JavaScript library",
+      "b": "A syntax extension that allows you to write HTML-like code within JavaScript",
+      "c": "A type of CSS framework",
+      "d": "A backend templating engine"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How do you render a component in React?",
+    "O": {
+      "a": "Using the 'render' method",
+      "b": "By returning JSX from a functional component or rendering it within a class component's render method",
+      "c": "Using the 'display' function",
+      "d": "By directly inserting HTML into the DOM"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is the purpose of 'props' in React?",
+    "O": {
+      "a": "To pass data to components from parent components",
+      "b": "To manage component state",
+      "c": "To handle user events",
+      "d": "To style components"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is 'state' in React?",
+    "O": {
+      "a": "Data that is internal to a component",
+      "b": "Data passed from parent to child components",
+      "c": "A type of event listener",
+      "d": "A method used for styling"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you update the state in a functional component?",
+    "O": {
+      "a": "Using the 'this.setState' method",
+      "b": "Using the 'useState' hook",
+      "c": "Directly assigning a new value to the state variable",
+      "d": "Using the 'updateState' method"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a lifecycle method in a React class component?",
+    "O": {
+      "a": "A method that is automatically called at different stages of a component's existence",
+      "b": "A method that is used to handle user events",
+      "c": "A method that is used for styling",
+      "d": "A method used for routing"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is virtual DOM in React?",
+    "O": {
+      "a": "A lightweight copy of the actual DOM that React uses for efficient updates",
+      "b": "A type of database",
+      "c": "A server-side rendering technique",
+      "d": "A routing mechanism"
+    },
+    "A": "a"
+  }
+][
+  {
+    "Q": "What is ReactJS primarily used for?",
+    "O": {
+      "a": "Backend development",
+      "b": "Mobile app development",
+      "c": "Building user interfaces (UI)",
+      "d": "Database management"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "What is JSX in React?",
+    "O": {
+      "a": "A JavaScript library",
+      "b": "A syntax extension to JavaScript",
+      "c": "A type of CSS",
+      "d": "A backend framework"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a component in React?",
+    "O": {
+      "a": "A reusable piece of UI",
+      "b": "A type of JavaScript variable",
+      "c": "A CSS style sheet",
+      "d": "A backend function"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you render a component in React?",
+    "O": {
+      "a": "Using the render() method",
+      "b": "Using the ReactDOM.render() method",
+      "c": "Using the component() method",
+      "d": "Using the display() method"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is the purpose of props in React?",
+    "O": {
+      "a": "To pass data from parent to child components",
+      "b": "To manage component state",
+      "c": "To handle events",
+      "d": "To define component styles"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is state in React?",
+    "O": {
+      "a": "Data that is managed within a component",
+      "b": "Data passed from parent to child components",
+      "c": "A component's lifecycle method",
+      "d": "A type of event handler"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you update the state in a React component?",
+    "O": {
+      "a": "By directly modifying the state variable",
+      "b": "By using the setState() method",
+      "c": "By using the updateState() method",
+      "d": "By using the useState() hook"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a functional component in React?",
+    "O": {
+      "a": "A component defined as a class",
+      "b": "A component defined as a function",
+      "c": "A component that handles events",
+      "d": "A component that manages state"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What are Hooks in React?",
+    "O": {
+      "a": "Functions that let you 'hook into' React state and lifecycle features from function components",
+      "b": "Methods for updating state in class components",
+      "c": "A type of component",
+      "d": "A library for handling events"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is the purpose of the useState hook?",
+    "O": {
+      "a": "To add state to functional components",
+      "b": "To handle events",
+      "c": "To manage component lifecycle",
+      "d": "To define component styles"
+    },
+    "A": "a"
+  }
+]

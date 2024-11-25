@@ -1,0 +1,92 @@
+[
+{
+"Q": "What is sex?",
+"O": {
+"a": "The biological differences between males and females",
+"b": "Sexual activity or intercourse",
+"c": "Gender identity",
+"d": "All of the above"
+},
+"A": "d"
+},
+{
+"Q": "What are some of the biological differences between males and females?",
+"O": {
+"a": "Chromosomes (XX vs. XY)",
+"b": "Reproductive organs",
+"c": "Hormonal differences",
+"d": "All of the above"
+},
+"A": "d"
+},
+{
+"Q": "What is sexual intercourse?",
+"O": {
+"a": "Penetration of the vagina by the penis",
+"b": "The union of the genitals",
+"c": "Intimate sexual activity between two people involving physical contact",
+"d": "All of the above depending on the specific definition"
+},
+"A": "d"
+},
+{
+"Q": "What is gender?",
+"O": {
+"a": "The social and cultural roles, behaviors, expressions, and identities of individuals",
+"b": "The biological differences between males and females",
+"c": "The same as biological sex",
+"d": "None of the above"
+},
+"A": "a"
+},
+{
+"Q": "What is sexual orientation?",
+"O": {
+"a": "The gender(s) a person is attracted to",
+"b": "A person’s emotional, romantic and/or sexual attraction to another person",
+"c": "The same as biological sex",
+"d": "A person’s gender identity"
+},
+"A": "b"
+},
+{
+"Q": "What are some different sexual orientations?",
+"O": {
+"a": "Heterosexual",
+"b": "Homosexual",
+"c": "Bisexual",
+"d": "All of the above"
+},
+"A": "d"
+},
+{
+"Q": "What is consent?",
+"O": {
+"a": "Agreement freely and enthusiastically given",
+"b": "A legal term applying to sexual activity",
+"c": "Something that can only be given verbally",
+"d": "Only applies to activities with the opposite sex"
+},
+"A": "a"
+},
+{
+"Q": "What is the importance of communication in sexual relationships?",
+"O": {
+"a": "It helps establish healthy boundaries",
+"b": "It ensures both partners' needs and desires are understood",
+"c": "It contributes to mutual respect and satisfaction",
+"d": "All of the above"
+},
+"A": "d"
+},
+{
+"Q": "What is sexual health?",
+"O": {
+"a": "A state of physical, emotional, mental and social well-being in relation to sexuality",
+"b": "The absence of sexually transmitted infections",
+"c": "The ability to reproduce",
+"d": "Only concerned with reproductive health"
+},
+"A": "a"
+}
+]{}

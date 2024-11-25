@@ -1,0 +1,223 @@
+[
+  {
+    "Q": "What is JavaScript primarily used for?",
+    "O": {
+      "a": "Backend server-side logic",
+      "b": "Database management",
+      "c": "Front-end web development and interactivity",
+      "d": "Mobile application development (native)"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "What are the primary data types in JavaScript?",
+    "O": {
+      "a": "int, float, string, boolean",
+      "b": "String, Number, Boolean, Null, Undefined, Symbol, BigInt, Object",
+      "c": "Integer, Real, Character, Boolean",
+      "d": "Var, Let, Const"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How do you declare a variable in JavaScript?",
+    "O": {
+      "a": "using the 'var' keyword",
+      "b": "using the 'let' keyword",
+      "c": "using the 'const' keyword",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is the difference between 'let' and 'const' in JavaScript?",
+    "O": {
+      "a": "'let' declares a block-scoped variable, while 'const' declares a globally-scoped variable.",
+      "b": "'let' declares a mutable variable, while 'const' declares an immutable variable.",
+      "c": "'let' and 'const' are the same.",
+      "d": "'const' is used for objects only; 'let' is used for primitives."
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is an array in JavaScript?",
+    "O": {
+      "a": "A key-value pair data structure",
+      "b": "An ordered list of values",
+      "c": "A function",
+      "d": "A type of loop"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How do you access the first element of a JavaScript array named 'myArray'?",
+    "O": {
+      "a": "myArray[0]",
+      "b": "myArray.first()",
+      "c": "myArray[1]",
+      "d": "myArray.length - 1"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is an object in JavaScript?",
+    "O": {
+      "a": "An ordered list of values",
+      "b": "A key-value pair data structure",
+      "c": "A function",
+      "d": "A type of loop"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How do you access the value associated with the key 'name' in a JavaScript object named 'myObject'?",
+    "O": {
+      "a": "myObject['name']",
+      "b": "myObject.name",
+      "c": "myObject[0]",
+      "d": "Both a and b"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is a function in JavaScript?",
+    "O": {
+      "a": "A block of reusable code",
+      "b": "A data type",
+      "c": "A loop",
+      "d": "A variable"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you define a function in JavaScript?",
+    "O": {
+      "a": "function myFunction() { ... }",
+      "b": "myFunction: () => { ... }",
+      "c": "myFunction = function() { ... }",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What does DOM stand for in the context of JavaScript?",
+    "O": {
+      "a": "Document Object Model",
+      "b": "Data Object Model",
+      "c": "Dynamic Object Method",
+      "d": "Digital Output Method"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is the purpose of the 'this' keyword in JavaScript?",
+    "O": {
+      "a": "To refer to the current object",
+      "b": "To declare a variable",
+      "c": "To define a function",
+      "d": "To create a loop"
+    },
+    "A": "a"
+  }
+][
+  {
+    "Q": "What is JavaScript primarily used for?",
+    "O": {
+      "a": "Backend web development",
+      "b": "Database management",
+      "c": "Frontend web development",
+      "d": "Mobile app development"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "Which type of language is JavaScript?",
+    "O": {
+      "a": "Compiled language",
+      "b": "Interpreted language",
+      "c": "Markup language",
+      "d": "Assembly language"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How do you declare a variable in JavaScript?",
+    "O": {
+      "a": "var x = 10;",
+      "b": "int x = 10;",
+      "c": "let x = 10;",
+      "d": "Both a and c"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is the difference between 'let' and 'const'?",
+    "O": {
+      "a": "'let' declares a block-scoped variable, 'const' declares a constant variable",
+      "b": "'let' declares a global variable, 'const' declares a local variable",
+      "c": "'let' declares a constant, 'const' declares a variable",
+      "d": "There is no difference"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you create a function in JavaScript?",
+    "O": {
+      "a": "function myFunction() { ... }",
+      "b": "myFunction: function() { ... }",
+      "c": "myFunction = () => { ... }",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is the purpose of 'this' keyword?",
+    "O": {
+      "a": "To refer to the current object",
+      "b": "To declare a variable",
+      "c": "To define a function",
+      "d": "To return a value"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What does DOM stand for?",
+    "O": {
+      "a": "Document Object Model",
+      "b": "Data Object Model",
+      "c": "Digital Object Model",
+      "d": "Dynamic Object Model"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How do you add an event listener to an element?",
+    "O": {
+      "a": "element.addEventListener('event', function) ",
+      "b": "element.on('event', function)",
+      "c": "element.attachEvent('event', function)",
+      "d": "Both a and c"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is JSON?",
+    "O": {
+      "a": "JavaScript Object Notation",
+      "b": "Java Object Notation",
+      "c": "JavaScript Object Network",
+      "d": "Java Object Network"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is AJAX?",
+    "O": {
+      "a": "Asynchronous JavaScript And XML",
+      "b": "Asynchronous Java And XML",
+      "c": "Alternative JavaScript And XML",
+      "d": "Alternative Java And XML"
+    },
+    "A": "a"
+  }
+]

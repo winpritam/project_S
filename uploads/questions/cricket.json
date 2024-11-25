@@ -1,0 +1,102 @@
+[
+  {
+    "Q": "What is the basic objective of a cricket match?",
+    "O": {
+      "a": "To score more runs than the opposing team",
+      "b": "To get the opposing team out in the fewest balls",
+      "c": "To score the most runs in the allotted time",
+      "d": "To have the highest batting average"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "How many players are there in a cricket team?",
+    "O": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "What is a 'boundary' in cricket?",
+    "O": {
+      "a": "When a player is dismissed",
+      "b": "When a player hits the ball out of the field",
+      "c": "When a player scores a six",
+      "d": "When a player catches a ball"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a 'wicket' in cricket?",
+    "O": {
+      "a": "When a player scores a run",
+      "b": "When a player is dismissed",
+      "c": "When a player hits the ball for a six",
+      "d": "When a player catches a ball"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is the term for hitting the ball for six runs?",
+    "O": {
+      "a": "Four",
+      "b": "Six",
+      "c": "Boundary",
+      "d": "Wicket"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a 'no-ball' in cricket?",
+    "O": {
+      "a": "An illegal delivery by the bowler",
+      "b": "A legal delivery by the bowler",
+      "c": "When a player is dismissed",
+      "d": "When a player scores a run"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is a 'wide' in cricket?",
+    "O": {
+      "a": "A legal delivery by the bowler",
+      "b": "An illegal delivery by the bowler that is too wide for the batsman to hit",
+      "c": "When a player is dismissed",
+      "d": "When a player scores a run"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is the name of the three formats of cricket?",
+    "O": {
+      "a": "Test, ODI, T20",
+      "b": "ODI, T20, Twenty20",
+      "c": "Test, One Day, Twenty20",
+      "d": "Test match, One Day International, T20 International"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "Which format of cricket has the shortest matches?",
+    "O": {
+      "a": "Test Matches",
+      "b": "One Day Internationals (ODIs)",
+      "c": "T20 Internationals",
+      "d": "All have same duration"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "In which country did cricket originate?",
+    "O": {
+      "a": "India",
+      "b": "Australia",
+      "c": "England",
+      "d": "West Indies"
+    },
+    "A": "c"
+  }
+]

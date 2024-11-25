@@ -1,0 +1,142 @@
+[
+  {
+    "Q": "What does SQL stand for?",
+    "O": {
+      "a": "Structured Query Language",
+      "b": "Statistical Query Language",
+      "c": "Simple Query Language",
+      "d": "Standard Query Language"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "Which SQL statement is used to retrieve data from a database?",
+    "O": {
+      "a": "SELECT",
+      "b": "INSERT",
+      "c": "UPDATE",
+      "d": "DELETE"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "Which SQL statement is used to insert new data into a database?",
+    "O": {
+      "a": "SELECT",
+      "b": "INSERT",
+      "c": "UPDATE",
+      "d": "DELETE"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "Which SQL statement is used to update existing data in a database?",
+    "O": {
+      "a": "SELECT",
+      "b": "INSERT",
+      "c": "UPDATE",
+      "d": "DELETE"
+    },
+    "A": "c"
+  },
+  {
+    "Q": "Which SQL statement is used to delete data from a database?",
+    "O": {
+      "a": "SELECT",
+      "b": "INSERT",
+      "c": "UPDATE",
+      "d": "DELETE"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is a primary key in SQL?",
+    "O": {
+      "a": "A column that uniquely identifies each row in a table",
+      "b": "A column that contains unique values, but can be NULL",
+      "c": "A column that is indexed for faster searching",
+      "d": "A column that is used to link two tables"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is a foreign key in SQL?",
+    "O": {
+      "a": "A column that uniquely identifies each row in a table",
+      "b": "A column that contains unique values, but can be NULL",
+      "c": "A column that is indexed for faster searching",
+      "d": "A column that is used to link two tables"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is a database schema?",
+    "O": {
+      "a": "A collection of databases",
+      "b": "A description of the structure of a database",
+      "c": "A single table in a database",
+      "d": "A query that retrieves data"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What is a join in SQL?",
+    "O": {
+      "a": "A way to combine rows from two or more tables based on a related column",
+      "b": "A way to filter data in a table",
+      "c": "A way to sort data in a table",
+      "d": "A way to create a new table"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What does the WHERE clause do in SQL?",
+    "O": {
+      "a": "Specifies conditions for filtering data",
+      "b": "Specifies the order to sort data",
+      "c": "Specifies the columns to select",
+      "d": "Specifies the table to select from"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What does the ORDER BY clause do in SQL?",
+    "O": {
+      "a": "Specifies conditions for filtering data",
+      "b": "Specifies the order to sort data",
+      "c": "Specifies the columns to select",
+      "d": "Specifies the table to select from"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What does the GROUP BY clause do in SQL?",
+    "O": {
+      "a": "Groups rows that have the same values in specified columns",
+      "b": "Sorts rows in a specified order",
+      "c": "Filters rows based on specified criteria",
+      "d": "Creates a new table"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What does the HAVING clause do in SQL?",
+    "O": {
+      "a": "Filters groups of rows after grouping",
+      "b": "Sorts rows in ascending or descending order",
+      "c": "Filters individual rows before grouping",
+      "d": "Creates a new table"
+    },
+    "A": "a"
+  },
+  {
+    "Q": "What is an index in SQL?",
+    "O": {
+      "a": "A data structure that improves the speed of data retrieval operations on a database table",
+      "b": "A way to uniquely identify each row in a table",
+      "c": "A way to link two tables together",
+      "d": "A way to create a new table"
+    },
+    "A": "a"
+  }
+]

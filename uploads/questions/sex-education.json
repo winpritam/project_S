@@ -1,0 +1,92 @@
+[
+  {
+    "Q": "What is the primary goal of sex education?",
+    "O": {
+      "a": "To promote abstinence only",
+      "b": "To provide comprehensive information about human sexuality, relationships, and reproductive health",
+      "c": "To shame individuals for their sexual experiences",
+      "d": "To encourage early sexual activity"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "What topics are typically included in comprehensive sex education?",
+    "O": {
+      "a": "Anatomy and physiology of the reproductive system",
+      "b": "Puberty and adolescent development",
+      "c": "Relationships, communication, and consent",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "Why is sex education important for young people?",
+    "O": {
+      "a": "To help them make informed decisions about their sexual health",
+      "b": "To promote healthy relationships and prevent sexual violence",
+      "c": "To reduce rates of unintended pregnancies and sexually transmitted infections",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What are some of the potential benefits of comprehensive sex education?",
+    "O": {
+      "a": "Improved sexual health outcomes",
+      "b": "Reduced rates of unintended pregnancies",
+      "c": "Increased knowledge and understanding of sexuality",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What are some potential drawbacks to abstinence-only sex education?",
+    "O": {
+      "a": "It does not provide young people with the information they need to make safe choices",
+      "b": "It may lead to higher rates of unintended pregnancies and STIs",
+      "c": "It often fails to address important issues such as consent and healthy relationships",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "How does sex education contribute to the prevention of sexual violence?",
+    "O": {
+      "a": "By teaching consent, healthy relationships, and communication skills",
+      "b": "By challenging harmful gender stereotypes and norms",
+      "c": "By providing information on how to recognize and report sexual violence",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What role should parents play in sex education?",
+    "O": {
+      "a": "Parents should be the sole source of sex education for their children",
+      "b": "Parents should complement school-based sex education by providing age-appropriate information and open communication",
+      "c": "Parents should avoid discussing sexuality with their children altogether",
+      "d": "Parents should only discuss abstinence with their children"
+    },
+    "A": "b"
+  },
+  {
+    "Q": "How can schools create effective sex education programs?",
+    "O": {
+      "a": "By using evidence-based curricula",
+      "b": "By providing training for teachers",
+      "c": "By creating a supportive and inclusive learning environment",
+      "d": "All of the above"
+    },
+    "A": "d"
+  },
+  {
+    "Q": "What is the difference between sex education and sexual health education?",
+    "O": {
+      "a": "Sex education is broader, encompassing relationships and consent, while sexual health education primarily focuses on anatomy, reproduction and STIs",
+      "b": "There is no difference, the terms are used interchangeably",
+      "c": "Sex education is only for adolescents, while sexual health education is for adults",
+      "d": "Sex education is abstinence-only, while sexual health education is comprehensive"
+    },
+    "A": "a"
+  }
+]
