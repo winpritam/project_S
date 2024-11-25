@@ -1,0 +1,35 @@
+<!-- templates/quize.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+</head>
+<body>
+    <h1>Quiz for Topic: {{ topic }}</h1>
+
+    {% if questions %}
+        <h1>Quiz Questions</h1>
+        <form method="POST" action="/score">
+            {% for question in questions %}
+                <p>({{ loop.index }}) {{ question['Q'] }}</p>
+                {% set qn = loop.index %}
+                {% set ops = question['O'] %}
+                {% for op in question['O'] %}
+                <div>
+                    <input type="radio" id="q{{ qn }}{{ op }}" name="q{{ qn}}" required value="{{ op }}">
+                    <label for="q{{ qn }}{{ op }}">{{ ops[op] }}</label>
+                </div>
+                {% endfor %}
+                {% endfor %}
+            </br>
+            <button type="submit">Submit</button>
+        </form>
+    {% else %}
+        <p>No questions available for this topic.</p>
+    {% endif %}
+</body>
+</html>
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .result-container {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px auto;
+            width: 50%;
+        }
+        .result-header {
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .result-detail {
+            margin-top: 10px;
+        }
+        .wrong-answer {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h2 class="result-header">Quiz Results</h2>
+        <div class="result-detail">
+            <p>Total Questions: {{ total_questions }}</p>
+            <p>Correct Answers: {{ correct_answers }}</p>
+            <p>Wrong Answers: {{ wrong_answers }}</p>
+            <p>Total Score: {{ total_score }}</p>
+        </div>
+        <h3 class="result-header">Incorrect Answers</h3>
+        <ul>
+            {% for wrong_question in wrong_questions %}
+                <li class="wrong-answer">Question {{ wrong_question.question_number }}: {{ wrong_question.question_text }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html
